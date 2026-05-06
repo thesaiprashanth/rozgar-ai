@@ -1,2 +1,3 @@
-RozgarAI 🇮🇳🤖
+# RozgarAI 🇮🇳🤖
+
 RozgarAI is an AI-powered government job recommendation platform that uses Natural Language Processing (NLP) to analyze resumes and recommend relevant public sector job opportunities based on a candidate’s skills, education, and experience. The platform extracts important information from resumes using NLP techniques and intelligently matches users with suitable government jobs through an AI-driven recommendation system. Built using React, TypeScript, Firebase, and Gemini AI, RozgarAI aims to simplify the government job search process for students and job seekers through smart automation and personalized recommendations.
